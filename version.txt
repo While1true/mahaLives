@@ -1,1 +1,1 @@
-{"versionCode":2,"url":"https://github.com/While1true/mahaLives/blob/master/lives_v1.0.1_2019-03-04_release.apk?raw=true","versionName":"1.0.1","info":"\n 1. 修复了部分机型乱码情况\n 2. 增加检查更新功能\n 3. 每日放生明细增加表格显示"}
+{"versionCode":2,"url":"https://github.com/While1true/mahaLives/blob/master/lives_v1.0.1_2019-03-05_release.apk?raw=true","versionName":"1.0.1","info":"\n 1. 淇浜嗛儴鍒嗘満鍨嬩贡鐮佹儏鍐礬n 2. 澧炲姞妫�鏌ユ洿鏂板姛鑳絓n 3. 姣忔棩鏀剧敓鏄庣粏澧炲姞琛ㄦ牸鏄剧ず"}
