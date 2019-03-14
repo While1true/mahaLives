@@ -1,1 +1,1 @@
-{"versionCode":1,"url":"https://github.com/While1true/mahaLives/blob/master/lives_v1.0.4_2019-03-14_release.apk?raw=true","versionName":"1.0.4","info":"\n 1. 增加放生备注功能。\n 2. 支持小数金额，方便抢红包，hah。\n 3. 删除首页小鱼。\n 4. 美化"}
+{"versionCode":4,"url":"https://github.com/While1true/mahaLives/blob/master/lives_v1.0.4_2019-03-14_release.apk?raw=true","versionName":"1.0.4","info":"\n 1. 增加放生备注功能。\n 2. 支持小数金额，方便抢红包，hah。\n 3. 删除首页小鱼。\n 4. 美化"}
