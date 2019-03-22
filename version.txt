@@ -1,1 +1,1 @@
-{"versionCode":5,"url":"https://github.com/While1true/mahaLives/blob/master/lives_v1.0.5_2019-03-17_release.apk?raw=true","versionName":"1.0.5","info":"\n 1. 改进界面，简洁明白。"}
+{"versionCode":5,"url":"https://github.com/While1true/mahaLives/blob/master/lives_v1.0.5_2019-03-22_release.apk?raw=true","versionName":"1.0.6","info":"\n 1. 改进界面，简洁明白。"}
