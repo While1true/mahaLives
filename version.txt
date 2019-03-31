@@ -1,1 +1,1 @@
-{"versionCode":5,"url":"https://github.com/While1true/mahaLives/blob/master/lives_v1.0.5_2019-03-22_release.apk?raw=true","versionName":"1.0.6","info":"\n 1. 改进界面，简洁明白。"}
+{"versionCode":5,"url":"https://github.com/While1true/mahaLives/blob/master/lives_v1.0.5_2019-03-22_release.apk?raw=true","versionName":"1.1.0","info":"\n 1. 修复连续添加天天放生记录丢失的严重bug，深表抱歉。\n 2. 增加按上月随喜记录批量生成新的月随喜记录 "}
