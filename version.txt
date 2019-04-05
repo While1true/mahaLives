@@ -1,1 +1,1 @@
-{"versionCode":9,"url":"https://github.com/While1true/mahaLives/blob/master/lives_v1.1.1_2019-04-05_release.apk?raw=true","versionName":"1.1.1","info":"\n 1. 增加同步数据功能，将数据保存到云端，也可下载到本地。 "}
+{"versionCode":8,"url":"https://github.com/While1true/mahaLives/blob/master/lives_v1.1.1_2019-04-05_release.apk?raw=true","versionName":"1.1.1","info":"\n 1. 增加同步数据功能，将数据保存到云端，也可下载到本地。 "}
