@@ -1,1 +1,1 @@
-{"versionCode":13,"url":"https://github.com/While1true/mahaLives/blob/master/lives_v1.1.3_2019-07-01_release.apk?raw=true","versionName":"1.1.3","info":"\n1. 天天放生增加续接功能。 \n2. 从表格导入月账单支持导出的格式。\n3. 复制功能修复"}
+&&&hahaha&&&{"versionCode":13,"url":"https://github.com/While1true/mahaLives/blob/master/lives_v1.1.3_2019-07-01_release.apk?raw=true","versionName":"1.1.3","info":"\n1. 天天放生增加续接功能。 \n2. 从表格导入月账单支持导出的格式。\n3. 复制功能修复"}&&&hahaha&&&
