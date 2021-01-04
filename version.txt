@@ -1,3 +1,3 @@
-&&&hahaha&&&{,"uploadUrl":"","webUrl":"http://www.wlw518.com/box/web/menu.html","versionUrl":"","versionCode":15,"url":"http://www.wlw518.com/box/web/lives_v1.1.5_2021-01-02_release.apk","versionName":"1.1.6","info":"全新的版本，心得体验"}&&&hahaha&&&
+&&&hahaha&&&{"uploadUrl":"","webUrl":"http://www.wlw518.com/box/web/menu.html","versionUrl":"","versionCode":15,"url":"http://www.wlw518.com/box/web/lives_v1.1.5_2021-01-02_release.apk","versionName":"1.1.6","info":"全新的版本，心得体验"}&&&hahaha&&&
 
 "homePath":"/maha/normal"
