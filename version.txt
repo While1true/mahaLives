@@ -1,1 +1,1 @@
-&&&hahaha&&&{"forceHome":false,"homePath":"/maha/normal","uploadUrl":"http://mayura.cn/","webUrl":"http://mayura.cn/menu.html","versionUrl":"","versionCode":16,"url":"http://mayura.cn/box/web/lives_v1.1.5_2021-01-16_release.apk","versionName":"1.1.6","info":"全新的版本，新的体验"}&&&hahaha&&&
+&&&hahaha&&&{"forceHome":false,"homePath":"/maha/normal","uploadUrl":"http://mayura.cn/","webUrl":"http://mayura.cn/menu.html","versionUrl":"","versionCode":16,"url":"http://mayura.cn/lives.apk","versionName":"1.1.6","info":"全新的版本，新的体验"}&&&hahaha&&&
