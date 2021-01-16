@@ -1,1 +1,1 @@
-&&&hahaha&&&{"forceHome":false,"homePath":"/maha/home","uploadUrl":"http://172.17.207.97/","webUrl":"http://mayura.cn/home/menu.html","versionUrl":"","versionCode":16,"url":"http://mayura.cn/lives.apk","versionName":"1.1.6","info":"全新的版本，新的体验"}&&&hahaha&&&
+&&&hahaha&&&{"forceHome":true,"homePath":"/maha/home","uploadUrl":"http://172.17.207.97/","webUrl":"http://mayura.cn/home/menu.html","versionUrl":"","versionCode":16,"url":"http://mayura.cn/lives.apk","versionName":"1.1.6","info":"全新的版本，新的体验"}&&&hahaha&&&
